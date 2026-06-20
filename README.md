@@ -8,7 +8,7 @@ Ainsi, la satisfaction client, l'optimisation de la logistique ou encore la qual
 
 ## Dataset utilisé
 
-Les données utilisées sont des données commerciales réelles anonymisées publiées par Olist sur Kaggle. Elles comptent 100 000 commandes traitées entre 2016 et 2018 au Brésil et couvrent le cycle d'achat, du paiement à la livraison. Le schéma relationnel est composé de 9 tables (commandes, clients, articles, paiements, produits, avis, vendeurs, géolocalisation et catégories de produits).
+Les données utilisées sont des données commerciales réelles anonymisées publiées par Olist sur [Kaggle](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce?select=olist_order_payments_dataset.csv). Elles comptent 100 000 commandes traitées entre 2016 et 2018 au Brésil et couvrent le cycle d'achat, du paiement à la livraison. Le schéma relationnel est composé de 9 tables (commandes, clients, articles, paiements, produits, avis, vendeurs, géolocalisation et catégories de produits).
 
 ## Axes d'analyse
 
