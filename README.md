@@ -30,7 +30,7 @@ Pour mener à bien cette analyse, nous utilisons :
 
 ## Structure du repo
 
-## Résulats
+## Résultats
 - **Insights**
 - **Dashboard**
 - **Recommendations**
